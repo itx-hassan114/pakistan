@@ -8,7 +8,7 @@ const page = () => {
         <div className="pt-6 md:p-40 text-center md:text-left space-y-2">
           <blockquote>
             <p className="text-lg font-large">
-              “My name is Muhammad Hassan Saeed . I am a student of AIArtificial Intelligence (AI) is transforming the world at an unprecedented pace, and I am proud to be a part of this revolution as a member of an AI community.As a member of the AI community, I am involved in various projects that explore the capabilities of AI ,,.”
+              “My name is Muhammad Hassan Saeed . I am a student of AIArtificial Intelligence (AI) is transforming the world at an unprecedented pace, and I am proud to be a part of this revolution as a member of an AI community.As a member of the AI community, I am involved in various projects that explore the capabilities of AI. As a member of the AI community, I am involved in various projects that explore the capabilities of AI.,,.”
             </p>
           </blockquote>
           <figcaption className="font-medium">
